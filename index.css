@@ -32,3 +32,29 @@ nav .nav-link{
 .socials i{
     margin-left: 5px;
 }
+
+#nav-home img{
+    width: 50%;
+    justify-content: center;
+}
+
+.intro-text{
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+.tagline{
+    color: orangered;
+    font-size: 15px;
+}
+
+#nav-home .btn{
+    background-color: orangered;
+    font-size: 15px;
+    color: white;
+}
+
+#nav-home .btn:hover{
+    background-color: green;
+    transition: all 0.3s;
+}
