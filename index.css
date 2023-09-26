@@ -52,6 +52,7 @@ nav .nav-link{
     background-color: orangered;
     font-size: 15px;
     color: white;
+    margin-bottom: 2rem;
 }
 
 #nav-home .btn:hover{
